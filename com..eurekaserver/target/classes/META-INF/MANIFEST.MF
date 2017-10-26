@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Eureka Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: I072231
+Implementation-Vendor-Id: com.contribution
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/com.parent/c
+ om.Eureka/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.eureka.app.EurekaServerApp
+

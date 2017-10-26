@@ -1,0 +1,5 @@
+com\zuul\filters\ErrorFilter.class
+com\zuul\app\ZuulApp.class
+com\zuul\filters\RouteFilter.class
+com\zuul\filters\PostFilter.class
+com\zuul\filters\PreFilter.class
